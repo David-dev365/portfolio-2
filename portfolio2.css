@@ -1,0 +1,46 @@
+/* General Styles */
+body {
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.6;
+}
+
+h3, h4, h5 {
+  margin-top: 0.5rem;
+  font-weight: bold;
+  color: #333;
+}
+
+p {
+  color: #666;
+}
+
+/* Button Styling */
+.btn {
+  border-radius: 25px;
+  padding: 0 2rem;
+}
+
+/* Section Padding */
+.section {
+  padding: 4rem 0;
+}
+
+/* Progress Bars */
+.progress .determinate {
+  height: 10px;
+  border-radius: 5px;
+}
+
+/* Contact Form */
+.input-field input, 
+.input-field textarea {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 0.5rem;
+}
+
+/* Footer */
+footer p {
+  margin: 0;
+  font-size: 0.9rem;
+}
